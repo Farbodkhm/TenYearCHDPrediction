@@ -19,7 +19,7 @@ Each attribute is a potential risk factor. There are both demographic, behaviora
 
 • Cigs Per Day: the number of cigarettes that the person smoked on average in one day.(can be considered continuous as one can have any number of cigarettes, even half a cigarette.)
 
-### Medical( history)
+### Medical(history)
 
 • BP Meds: whether or not the patient was on blood pressure medication (Nominal)
 
