@@ -43,6 +43,6 @@ Each attribute is a potential risk factor. There are both demographic, behaviora
 
 • Glucose: glucose level (Continuous)
 
-### Predict variable (desired target)
+### Predict variable(desired target)
 
 • 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)
